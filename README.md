@@ -1,4 +1,4 @@
-# camera_calibration
+# camera calibration
 
 ## Format
 
